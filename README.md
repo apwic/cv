@@ -1,6 +1,6 @@
 ## Resume
 
-![Resume](./output/resume.pdf)
+[Resume](./output/resume.pdf)
 
 ## How to Use
 
