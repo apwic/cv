@@ -1,3 +1,7 @@
+## Resume
+
+![Resume](./output/resume.pdf)
+
 ## How to Use
 
 #### Requirements
