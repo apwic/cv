@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1751721437 "output/resume.xdv" "output/resume.pdf" "output/resume" 1751721437 0
-  "output/resume.xdv" 1751721437 50660 244d85ec50c3cf6d9a32d8a1a0e01c35 "xelatex"
+["xdvipdfmx"] 1768540710 "output/resume.xdv" "output/resume.pdf" "output/resume" 1768540710 0
+  "output/resume.xdv" 1768540710 59556 64bd806c42e295c9f2b859cc9beefd2d "xelatex"
   (generated)
   "output/resume.pdf"
   (rewritten before read)
-["xelatex"] 1751721435 "resume.tex" "output/resume.xdv" "resume" 1751721437 0
+["xelatex"] 1768540708 "resume.tex" "output/resume.xdv" "resume" 1768540710 0
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/lmmi10.tfm" 1148093231 1528 6d36b2385e0ca062a654de6ac59cb34f ""
@@ -165,13 +165,15 @@
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
   "/usr/local/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1696766535 10502857 bc079e5f156a21c255a2d40a9fd3a773 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "awesome-cv.cls" 1751721430 30226 ecad5bbd7163028d59bafa0214c4ab7a ""
-  "output/resume.aux" 1751721437 464 4a44ff79e847885633a5b1d8ff00c655 "xelatex"
-  "resume.tex" 1751721169 4006 e2b36688857f6ca4dc89bfd50ee88600 ""
-  "resume/education.tex" 1751720619 1318 163b72034819806bd67acf4235e241a4 ""
-  "resume/experience.tex" 1751720619 3970 afe2fb21bcf0768b5830d5fe3dd45220 ""
-  "resume/projects.tex" 1751720619 1397 e52eaef26ccc68964763e7541bf2b580 ""
-  "resume/summary.tex" 1751720619 1380 54680ba25986410d53491028c765a664 ""
+  "awesome-cv.cls" 1765188421 30993 97c4d44e753396f201143e57e102098c ""
+  "output/resume.aux" 1768540710 464 642272556978b40963ab6b3ab7eb02a2 "xelatex"
+  "resume.tex" 1765187916 3992 8e97df61551a74ab7eb8589f1f4ac90e ""
+  "resume/education.tex" 1768540144 1235 b92c2bb8df15eb508a289056687cd80f ""
+  "resume/experience.tex" 1768540608 4115 908f774e2761e4de2f560df7aac88095 ""
+  "resume/organizations.tex" 1763815504 1246 96926581ae41513f85f0514cd8e54e39 ""
+  "resume/projects.tex" 1763815498 1424 f0e18c992831b649456c1d21cf87eee0 ""
+  "resume/skills.tex" 1768540131 1065 2762005890b68fabda77624f0e82df7b ""
+  "resume/summary.tex" 1768540707 1675 375d67925ac3e472e055c0c85ae6c336 ""
   (generated)
   "output/resume.aux"
   "output/resume.log"
